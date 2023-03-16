@@ -29,3 +29,13 @@ Sample Data to be entered
  1662484,6,73,61,35,24,18.74367404,1.074147566,75
  1228510,4,115,50,29,243,34.69215364,0.741159926,59
 
+
+import pandas as pd
+
+def azureml_main(dataframe1 = None, dataframe2 = None):
+
+    scored_results = dataframe1[['Scored Labels', 'Scored Probabilities']]
+    scored_results.rename(columns={'Scored Labels':'DiabetesPrediction',
+                                'Scored Probabilities':'Probability'},
+                        inplace=True)
+    return scored_results
