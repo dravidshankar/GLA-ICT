@@ -17,3 +17,7 @@ https://github.com/MicrosoftLearning/mslearn-ai900/blob/main/data/object-detecti
 
 Bike Rentals Dataset 
 https://aka.ms/bike-rentals
+
+Diabetic Dataset
+https://aka.ms/diabetes-data
+
