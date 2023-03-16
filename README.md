@@ -4,6 +4,8 @@ https://developer.microsoft.com/en-US/offers/30-days-to-learn-it
 # GLA-ICT
 ICT Training Materials
 
+AI 900 Study Materials
+https://learn.microsoft.com/en-us/certifications/exams/ai-900/
 
 git clone https://github.com/MicrosoftLearning/AI-900-AIFundamentals ai-900
 
