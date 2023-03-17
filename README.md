@@ -36,6 +36,9 @@ Lab4: Clustering Problem using ML Designer
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-create-clustering-model.html
 
 ICT Login Details:
+
 URL to login - https://amcatglobal.aspiringminds.com
+
 User Name - GLA_AI 
+
 Password - AI@123
