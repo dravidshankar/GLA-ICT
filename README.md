@@ -54,7 +54,9 @@ https://microsoftlearning.github.io/AI-102-AIEngineer/
 Python Basics
 https://colab.research.google.com/drive/1joupk-gVq7pSY99bzi40vxqijQ6T2-ka?usp=sharing
 
-Cognitive Services Credentials
+Cognitive Services Credentials:
+
 Endpoint: https://ict-cog-ttt.cognitiveservices.azure.com/
+
 key: 72fe5ca6791e4b6e8bda9ecce4e5d8c0
 
