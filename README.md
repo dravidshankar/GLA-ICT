@@ -35,6 +35,8 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-creat
 Lab4: Clustering Problem using ML Designer
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-create-clustering-model.html
 
+Assessments
+
 ICT Login Details:
 
 URL to login - https://amcatglobal.aspiringminds.com
@@ -42,3 +44,10 @@ URL to login - https://amcatglobal.aspiringminds.com
 User Name - GLA_AI 
 
 Password - AI@123
+
+AI102 :Azure AI Engineer Associate Course Materials
+https://learn.microsoft.com/en-us/certifications/exams/ai-102
+
+AI102 Lab Materials
+https://learn.microsoft.com/en-us/certifications/exams/ai-102
+
