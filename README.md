@@ -51,3 +51,6 @@ https://learn.microsoft.com/en-us/certifications/exams/ai-102
 AI102 Lab Materials
 https://microsoftlearning.github.io/AI-102-AIEngineer/
 
+Python Basics
+https://colab.research.google.com/drive/1joupk-gVq7pSY99bzi40vxqijQ6T2-ka?usp=sharing
+
