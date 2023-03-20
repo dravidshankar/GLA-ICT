@@ -9,6 +9,7 @@ https://learn.microsoft.com/en-us/certifications/exams/ai-900/
 
 git clone https://github.com/MicrosoftLearning/AI-900-AIFundamentals ai-900
 
+Contact for issues related with Azure students subscription
 https://azure.microsoft.com/en-us/contact/#contact-sales
 
 Custom Vision Portal
@@ -45,7 +46,7 @@ User Name - GLA_AI
 
 Password - AI@123
 
-AI102 :Azure AI Engineer Associate Course Materials
+AI102 :Azure AI Engineer Associate Course Materials including Virtual Labs
 https://learn.microsoft.com/en-us/certifications/exams/ai-102
 
 AI102 Lab Materials
