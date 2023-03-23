@@ -60,7 +60,7 @@ Cognitive Services Credentials:
 
 Endpoint: https://ict-cog-ttt.cognitiveservices.azure.com/
 
-key: 72fe5ca6791e4b6e8bda9ecce4e5d8c0
+
 
 
 
