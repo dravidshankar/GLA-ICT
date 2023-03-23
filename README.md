@@ -33,6 +33,7 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-creat
 Lab3: Classification Problem using ML Designer
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html
 
+Weather API key: 5df4d2e7374409fc4bdbe508dd02ceba
 Lab4: Clustering Problem using ML Designer
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-create-clustering-model.html
 
@@ -60,4 +61,6 @@ Cognitive Services Credentials:
 Endpoint: https://ict-cog-ttt.cognitiveservices.azure.com/
 
 key: 72fe5ca6791e4b6e8bda9ecce4e5d8c0
+
+
 
