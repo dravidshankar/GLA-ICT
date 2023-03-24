@@ -59,6 +59,7 @@ https://colab.research.google.com/drive/1joupk-gVq7pSY99bzi40vxqijQ6T2-ka?usp=sh
 Cognitive Services Credentials:
 
 Endpoint: https://ict-cog-ttt.cognitiveservices.azure.com/
+
 Key: 72fe5ca6791e4b6e8bda9ecce4e5d8c0
 
 
