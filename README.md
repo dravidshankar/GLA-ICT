@@ -64,6 +64,7 @@ Key: 72fe5ca6791e4b6e8bda9ecce4e5d8c0
 
 Module-wise and Final Assessment Link: https://learn.skycampus.in/user/login
 
+Please find the login credentials here: https://github.com/dravidshankar/GLA-ICT/blob/main/GLA%20University.xlsx
 
 
 
