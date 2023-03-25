@@ -62,6 +62,7 @@ Endpoint: https://ict-cog-ttt.cognitiveservices.azure.com/
 
 Key: 72fe5ca6791e4b6e8bda9ecce4e5d8c0
 
+Module-wise and Final Assessment Link: https://learn.skycampus.in/user/login
 
 
 
