@@ -59,12 +59,27 @@ https://colab.research.google.com/drive/1joupk-gVq7pSY99bzi40vxqijQ6T2-ka?usp=sh
 Cognitive Services Credentials:
 
 Endpoint: https://ict-cog-ttt.cognitiveservices.azure.com/
-
 Key: 72fe5ca6791e4b6e8bda9ecce4e5d8c0
+
+
+Azure Cognitive Search Service Credentials:
+
+Search URL: https://search-gla.search.windows.net
+
+Admin key: DlOXTrmcWBvT1VOLFPrcjzEvvcpkaEufrzx19pxXfYAzSeAWrUUE
+
+Query key: 5DNV4jDhjxDhOR5176jSQAeXDtAprf4t576zdLFHPzAzSeBnoNlg
+
+
+Storage Account Credentials:
+
+Name: storagegla13
+
+Admin Key: r9rctivf09cectMeiAhQ9xqF8m6tiTUXgEZM2O4HRiTYw3Q24rNtf0TyIEmrKmIfzholGJKq76bp+ASt7eDd5g==
+
+Connection String: r9rctivf09cectMeiAhQ9xqF8m6tiTUXgEZM2O4HRiTYw3Q24rNtf0TyIEmrKmIfzholGJKq76bp+ASt7eDd5g==
 
 Module-wise and Final Assessment Link: https://learn.skycampus.in/user/login
 
 Please find the login credentials here: https://github.com/dravidshankar/GLA-ICT/blob/main/GLA%20University.xlsx
-
-
 
