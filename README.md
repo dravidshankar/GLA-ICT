@@ -56,14 +56,14 @@ https://microsoftlearning.github.io/AI-102-AIEngineer/
 Python Basics
 https://colab.research.google.com/drive/1joupk-gVq7pSY99bzi40vxqijQ6T2-ka?usp=sharing
 
-##Cognitive Services Credentials:
+## Cognitive Services Credentials:
 
 Endpoint: https://ict-cog-ttt.cognitiveservices.azure.com/
 
 Key: 72fe5ca6791e4b6e8bda9ecce4e5d8c0
 
 
-##Azure Cognitive Search Service Credentials:
+## Azure Cognitive Search Service Credentials:
 
 Search URL: https://search-gla.search.windows.net
 
@@ -72,7 +72,7 @@ Admin key: DlOXTrmcWBvT1VOLFPrcjzEvvcpkaEufrzx19pxXfYAzSeAWrUUE
 Query key: 5DNV4jDhjxDhOR5176jSQAeXDtAprf4t576zdLFHPzAzSeBnoNlg
 
 
-##Storage Account Credentials:
+## Storage Account Credentials:
 
 Name: storagegla13
 
